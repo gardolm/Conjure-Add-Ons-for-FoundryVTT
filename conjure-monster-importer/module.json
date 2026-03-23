@@ -1,0 +1,25 @@
+{
+  "id": "conjure-importer",
+  "title": "Conjure Monster Importer",
+  "description": "Import monsters created with Conjure (rpgconjure.com) into Foundry VTT",
+  "version": "2.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Conjure",
+      "url": "https://rpgconjure.com"
+    }
+  ],
+  "esmodules": [
+    "scripts/conjure-importer.mjs"
+  ],
+  "styles": [
+    "styles/conjure-importer.css"
+  ],
+  "url": "https://github.com/gardolm/conjure",
+  "manifest": "https://raw.githubusercontent.com/gardolm/conjure/main/foundry-module/module.json",
+  "download": "https://github.com/gardolm/conjure/releases/download/v2.0.0/conjure-importer.zip"
+}

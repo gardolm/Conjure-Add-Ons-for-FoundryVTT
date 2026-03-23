@@ -1,0 +1,39 @@
+/**
+ * Conjure Monster Importer Styles
+ */
+
+.conjure-import-btn {
+  flex: 0 0 auto;
+  margin-left: 0.25rem;
+}
+
+.conjure-import-btn i {
+  margin-right: 0.25rem;
+}
+
+.conjure-import-form {
+  padding: 0.5rem 0;
+}
+
+.conjure-import-form p {
+  margin-bottom: 1rem;
+}
+
+.conjure-import-form a {
+  color: var(--color-text-hyperlink);
+}
+
+.conjure-import-form .form-group {
+  margin-bottom: 0.75rem;
+}
+
+.conjure-import-form label {
+  display: block;
+  margin-bottom: 0.25rem;
+  font-weight: bold;
+}
+
+.conjure-import-form input[type="file"],
+.conjure-import-form select {
+  width: 100%;
+}
