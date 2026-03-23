@@ -19,7 +19,7 @@
   "styles": [
     "styles/conjure-importer.css"
   ],
-  "url": "https://github.com/gardolm/conjure",
-  "manifest": "https://raw.githubusercontent.com/gardolm/conjure/main/foundry-module/module.json",
-  "download": "https://github.com/gardolm/conjure/releases/download/v2.0.0/conjure-importer.zip"
+  "url": "https://github.com/gardolm/Conjure-Add-Ons-for-FoundryVTT",
+  "manifest": "https://raw.githubusercontent.com/gardolm/Conjure-Add-Ons-for-FoundryVTT/main/conjure-monster-importer/module.json",
+  "download": "https://github.com/gardolm/Conjure-Add-Ons-for-FoundryVTT/releases/download/v2.0.0/conjure-monster-importer.zip"
 }
